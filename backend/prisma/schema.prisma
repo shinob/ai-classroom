@@ -1,0 +1,69 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:./dev.db"
+}
+
+model Session {
+  id         String   @id @default(uuid())
+  schoolType String
+  grade      Int
+  subject    String
+  topicId    String   @default("")
+  goalExplanation String @default("")
+  createdAt  DateTime @default(now())
+
+  teacher    Teacher?
+  students   Student[]
+  utterances Utterance[]
+}
+
+model Teacher {
+  id                String  @id @default(uuid())
+  sessionId         String  @unique
+  name              String
+  age               Int
+  gender            String
+  personality       String
+  teachingStyle     String
+  familyEnvironment String
+  yearsOfExperience Int
+
+  session Session @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+}
+
+model Student {
+  id                String @id @default(uuid())
+  sessionId         String
+  name              String
+  gender            String
+  personality       String
+  academicLevel     Int
+  concentration     String
+  hobbies           String
+  favoriteSubjects  String
+  weakSubjects      String
+  familyEnvironment String
+  seatRow           Int
+  seatCol           Int
+
+  session Session @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+}
+
+model Utterance {
+  id          String @id @default(uuid())
+  sessionId   String
+  speakerId   String
+  speakerType String
+  speakerName String
+  content     String
+  timestamp   Float
+  phase       String
+
+  session Session @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+
+  @@index([sessionId, timestamp])
+}

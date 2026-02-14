@@ -1,0 +1,96 @@
+{
+  "subject": "math",
+  "schoolType": "middle",
+  "topics": [
+    {
+      "grade": 1,
+      "topicName": "正負の数",
+      "lessonGoal": "正負の数の四則計算ができる",
+      "introTask": "気温が氷点下になる場面を考える",
+      "development1Tasks": ["正の数・負の数の意味と数直線上の位置を理解する", "正負の数の加法・減法を練習する"],
+      "development2Tasks": ["正負の数の乗法・除法を練習する", "四則混合計算を解く"],
+      "summaryTask": "正負の数の計算のきまりをまとめる"
+    },
+    {
+      "grade": 1,
+      "topicName": "方程式",
+      "lessonGoal": "一次方程式を立てて解くことができる",
+      "introTask": "天秤が釣り合う場面から等式の考え方を導入する",
+      "development1Tasks": ["等式の性質を使って方程式を解く方法を学ぶ", "移項を使って方程式を解く"],
+      "development2Tasks": ["方程式の文章問題に取り組む", "速さ・割合の方程式を解く"],
+      "summaryTask": "方程式の解き方の手順をまとめる"
+    },
+    {
+      "grade": 1,
+      "topicName": "比例と反比例",
+      "lessonGoal": "比例・反比例の関係を式・表・グラフで表せる",
+      "introTask": "水を入れる時間と水の量の関係を考える",
+      "development1Tasks": ["比例の式 y=ax を理解する", "比例のグラフを描く"],
+      "development2Tasks": ["反比例の式 y=a/x を理解する", "反比例のグラフを描く"],
+      "summaryTask": "比例と反比例の違いをまとめる"
+    },
+    {
+      "grade": 2,
+      "topicName": "連立方程式",
+      "lessonGoal": "連立方程式を加減法・代入法で解くことができる",
+      "introTask": "2つの条件を同時に満たす値を考える",
+      "development1Tasks": ["加減法で連立方程式を解く方法を学ぶ", "代入法で連立方程式を解く"],
+      "development2Tasks": ["連立方程式の文章問題に取り組む", "速さや割合の連立方程式を解く"],
+      "summaryTask": "加減法と代入法の使い分けをまとめる"
+    },
+    {
+      "grade": 2,
+      "topicName": "一次関数",
+      "lessonGoal": "一次関数の式・表・グラフの関係を理解する",
+      "introTask": "携帯電話の料金プランを比較する場面を考える",
+      "development1Tasks": ["一次関数 y=ax+b の式とグラフの関係を学ぶ", "傾きと切片の意味を理解する"],
+      "development2Tasks": ["2点を通る直線の式を求める", "一次関数の利用問題を解く"],
+      "summaryTask": "一次関数のポイントをまとめる"
+    },
+    {
+      "grade": 2,
+      "topicName": "合同と証明",
+      "lessonGoal": "三角形の合同条件を使って図形の性質を証明できる",
+      "introTask": "2つの三角形が合同であることを確かめる",
+      "development1Tasks": ["三角形の合同条件（3辺・2辺夾角・1辺両端角）を学ぶ", "合同条件を使った証明の書き方を学ぶ"],
+      "development2Tasks": ["二等辺三角形の性質を証明する", "正三角形の性質を証明する"],
+      "summaryTask": "証明の書き方の手順をまとめる"
+    },
+    {
+      "grade": 3,
+      "topicName": "二次方程式",
+      "lessonGoal": "二次方程式を因数分解・解の公式で解くことができる",
+      "introTask": "面積が12cm²の正方形の1辺の長さを考える",
+      "development1Tasks": ["因数分解による解き方を練習する", "平方完成の方法を学ぶ"],
+      "development2Tasks": ["解の公式を導出し、使い方を練習する", "二次方程式の文章問題に取り組む"],
+      "summaryTask": "二次方程式の3つの解法をまとめる"
+    },
+    {
+      "grade": 3,
+      "topicName": "相似な図形",
+      "lessonGoal": "相似の性質を理解し、相似比を使って辺の長さや面積を求められる",
+      "introTask": "地図の縮尺から相似の概念を導入する",
+      "development1Tasks": ["相似の意味と相似条件を学ぶ", "相似な三角形を見つけて証明する"],
+      "development2Tasks": ["相似比を使って辺の長さを求める", "面積比・体積比と相似比の関係を学ぶ"],
+      "summaryTask": "相似の性質と利用法をまとめる"
+    },
+    {
+      "grade": 3,
+      "topicName": "三平方の定理",
+      "lessonGoal": "三平方の定理を理解し、辺の長さを求められる",
+      "introTask": "直角三角形の3辺の関係を測って調べる",
+      "development1Tasks": ["三平方の定理 a²+b²=c² を理解する", "三平方の定理で辺の長さを求める練習"],
+      "development2Tasks": ["座標平面上の2点間の距離を求める", "空間図形への応用問題を解く"],
+      "summaryTask": "三平方の定理の活用場面をまとめる"
+    },
+    {
+      "grade": 3,
+      "topicName": "標本調査と確率",
+      "lessonGoal": "標本調査の考え方を理解し、確率を使って傾向を説明できる",
+      "introTask": "全員に調査するのが難しい場面を考える",
+      "development1Tasks": ["母集団と標本の違いを学ぶ", "無作為抽出の必要性を理解する"],
+      "development2Tasks": ["簡単な標本データから全体の傾向を推定する", "樹形図や表を使って確率を求める"],
+      "summaryTask": "標本調査と確率の活用例をまとめる"
+    }
+  ]
+}

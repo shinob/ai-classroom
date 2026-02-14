@@ -1,0 +1,87 @@
+{
+  "subject": "english",
+  "schoolType": "middle",
+  "topics": [
+    {
+      "grade": 1,
+      "topicName": "I am ～ / You are ～",
+      "lessonGoal": "be動詞を使った自己紹介や相手への質問ができる",
+      "introTask": "ALTの先生の自己紹介を聞く",
+      "development1Tasks": ["\"I am ～.\" \"You are ～.\" の肯定文・否定文を学ぶ", "\"Are you ～?\" の疑問文と応答を練習する"],
+      "development2Tasks": ["自己紹介カードを英語で作る", "ペアで英語で質問し合う"],
+      "summaryTask": "学んだ表現を使って自己紹介文を書く"
+    },
+    {
+      "grade": 1,
+      "topicName": "一般動詞（三人称単数）",
+      "lessonGoal": "三人称単数現在形の文を正しく作れる",
+      "introTask": "\"I play ～.\" と \"He plays ～.\" の違いに気づく",
+      "development1Tasks": ["三人称単数現在形の作り方（-s/-es/-ies）を学ぶ", "肯定文・否定文（doesn't）を練習する"],
+      "development2Tasks": ["\"Does he/she ～?\" の疑問文を練習する", "友達のことを英語で紹介する文を書く"],
+      "summaryTask": "三人称単数形のルールをまとめる"
+    },
+    {
+      "grade": 1,
+      "topicName": "過去形",
+      "lessonGoal": "過去の出来事を英語で表現できる",
+      "introTask": "昨日したことを日本語で話し合う",
+      "development1Tasks": ["規則動詞の過去形（-ed）を学ぶ", "不規則動詞の過去形（went, ate等）を学ぶ"],
+      "development2Tasks": ["過去形の疑問文・否定文を練習する", "日記を英語で書く"],
+      "summaryTask": "過去形を使った文を3つ書く"
+    },
+    {
+      "grade": 2,
+      "topicName": "比較表現",
+      "lessonGoal": "比較級・最上級を使って人やものを比較できる",
+      "introTask": "2つのものを比べる場面を考える",
+      "development1Tasks": ["比較級（-er/more ～）の作り方を学ぶ", "最上級（-est/most ～）の作り方を学ぶ"],
+      "development2Tasks": ["\"A is taller than B.\" \"A is the tallest in ～.\" の文を練習する", "比較を使ったクイズを作る"],
+      "summaryTask": "比較表現のルールをまとめる"
+    },
+    {
+      "grade": 2,
+      "topicName": "不定詞",
+      "lessonGoal": "不定詞の3用法（名詞的・副詞的・形容詞的）を理解する",
+      "introTask": "\"to + 動詞の原形\" の形を確認する",
+      "development1Tasks": ["名詞的用法（～すること）を学ぶ", "副詞的用法（～するために）を学ぶ"],
+      "development2Tasks": ["形容詞的用法（～するための）を学ぶ", "不定詞を使った英作文に取り組む"],
+      "summaryTask": "不定詞の3つの用法をまとめる"
+    },
+    {
+      "grade": 2,
+      "topicName": "受動態",
+      "lessonGoal": "受動態の文を作り、能動態との書き換えができる",
+      "introTask": "「この本は多くの人に読まれている」を英語でどう言うか考える",
+      "development1Tasks": ["\"be動詞 + 過去分詞\" の形を学ぶ", "受動態の肯定文・否定文・疑問文を練習する"],
+      "development2Tasks": ["能動態と受動態の書き換えを練習する", "by以外の前置詞を使う受動態を学ぶ"],
+      "summaryTask": "受動態を使った文を3つ書く"
+    },
+    {
+      "grade": 3,
+      "topicName": "現在完了形",
+      "lessonGoal": "現在完了形の3用法（経験・継続・完了）を使い分けられる",
+      "introTask": "\"I have lived in Tokyo for 10 years.\" の文を見て気づくことを考える",
+      "development1Tasks": ["現在完了形の形（have/has + 過去分詞）を学ぶ", "継続用法（for/since）を練習する"],
+      "development2Tasks": ["経験用法（ever/never/before）を練習する", "完了用法（already/just/yet）を練習する"],
+      "summaryTask": "現在完了形の3用法をまとめる"
+    },
+    {
+      "grade": 3,
+      "topicName": "関係代名詞",
+      "lessonGoal": "関係代名詞（who/which/that）を使って文を結合できる",
+      "introTask": "「私が昨日会った人」を英語でどう言うか考える",
+      "development1Tasks": ["関係代名詞 who（主格）の使い方を学ぶ", "関係代名詞 which/that（主格）を学ぶ"],
+      "development2Tasks": ["関係代名詞（目的格）を学ぶ", "関係代名詞を使って人やものを説明する文を書く"],
+      "summaryTask": "関係代名詞を使った文を3つ作る"
+    },
+    {
+      "grade": 3,
+      "topicName": "長文読解と要約",
+      "lessonGoal": "長文を読んで要点を把握し、要約文を書ける",
+      "introTask": "英語の文章を読むときのコツを確認する",
+      "development1Tasks": ["パラグラフごとのトピックセンテンスを見つける", "接続詞に注目して文章の流れをつかむ"],
+      "development2Tasks": ["本文の内容に関する質問に答える", "要約文を英語で書く"],
+      "summaryTask": "長文読解のポイントをまとめる"
+    }
+  ]
+}

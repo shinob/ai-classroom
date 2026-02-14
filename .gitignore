@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+dist/
+build/
+.vite/
+
+# Logs
+*.log
+*.pid
+*.pid.lock
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Test and coverage
+coverage/
+.nyc_output/
+
+# TypeScript
+*.tsbuildinfo
+.eslintcache
+.cache/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Database (Prisma SQLite)
+*.db
+*.db-journal
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

@@ -1,0 +1,60 @@
+{
+  "subject": "english",
+  "schoolType": "elementary",
+  "topics": [
+    {
+      "grade": 5,
+      "topicName": "自己紹介をしよう",
+      "lessonGoal": "自分の名前・好きなものを英語で伝えられる",
+      "introTask": "ALTの先生の自己紹介を聞く",
+      "development1Tasks": ["\"My name is ~.\" \"I like ~.\" の表現を練習する", "好きな食べ物・色・スポーツの英語を学ぶ"],
+      "development2Tasks": ["ペアで自己紹介の練習をする", "クラスの前で自己紹介をする"],
+      "summaryTask": "友達の自己紹介で分かったことを発表する"
+    },
+    {
+      "grade": 5,
+      "topicName": "道案内をしよう",
+      "lessonGoal": "道案内の基本表現（Go straight, Turn right/left）を使える",
+      "introTask": "学校の周りの地図を見る",
+      "development1Tasks": ["\"Go straight.\" \"Turn right/left.\" の表現を練習する", "教室内で道案内ゲームをする"],
+      "development2Tasks": ["地図を見ながらペアで道案内をする", "目的地までの道順を英語で説明する"],
+      "summaryTask": "道案内で使った表現を振り返る"
+    },
+    {
+      "grade": 5,
+      "topicName": "What do you want?",
+      "lessonGoal": "欲しいものを英語で尋ねたり答えたりできる",
+      "introTask": "アルファベットの大文字・小文字を復習する",
+      "development1Tasks": ["\"What do you want?\" \"I want ~.\" の表現を練習する", "食べ物や文房具の英単語を学ぶ"],
+      "development2Tasks": ["お買い物ロールプレイをする", "オリジナルメニューを英語で作る"],
+      "summaryTask": "お買い物で使った表現を振り返る"
+    },
+    {
+      "grade": 6,
+      "topicName": "My Summer Vacation",
+      "lessonGoal": "過去の出来事を英語で伝えられる",
+      "introTask": "夏休みの思い出を日本語で話し合う",
+      "development1Tasks": ["\"I went to ~.\" \"I ate ~.\" \"I enjoyed ~.\" の表現を学ぶ", "過去形の表現を練習する"],
+      "development2Tasks": ["夏休みの思い出カードを英語で書く", "ペアで夏休みについて英語でやり取りする"],
+      "summaryTask": "友達の夏休みの話で面白かったことを発表する"
+    },
+    {
+      "grade": 6,
+      "topicName": "What time do you get up?",
+      "lessonGoal": "日課を英語で伝えられる",
+      "introTask": "自分の朝の日課を考える",
+      "development1Tasks": ["\"What time do you ~?\" \"I usually ~ at ~.\" の表現を学ぶ", "日課に関する英単語（get up, eat breakfast等）を学ぶ"],
+      "development2Tasks": ["ペアで日課について英語でインタビューする", "1日のスケジュールを英語で発表する"],
+      "summaryTask": "日課の表現で学んだことを振り返る"
+    },
+    {
+      "grade": 6,
+      "topicName": "将来の夢",
+      "lessonGoal": "将来なりたい職業を英語で伝えられる",
+      "introTask": "将来の夢について考える",
+      "development1Tasks": ["\"I want to be a ~.\" の表現を学ぶ", "職業の英単語を学ぶ（teacher, doctor, singer等）"],
+      "development2Tasks": ["なりたい職業とその理由を英語で書く", "クラスの前で将来の夢を英語で発表する"],
+      "summaryTask": "友達の夢を聞いて感想を共有する"
+    }
+  ]
+}

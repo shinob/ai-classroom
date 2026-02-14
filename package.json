@@ -1,0 +1,15 @@
+{
+  "name": "ai-classroom",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --parallel dev",
+    "dev:frontend": "pnpm --filter frontend dev",
+    "dev:backend": "pnpm --filter backend dev",
+    "build": "pnpm --parallel build",
+    "lint": "pnpm --parallel lint",
+    "test": "pnpm --parallel test",
+    "db:migrate": "pnpm --filter backend db:migrate",
+    "db:studio": "pnpm --filter backend db:studio"
+  }
+}

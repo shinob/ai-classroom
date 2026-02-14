@@ -1,0 +1,78 @@
+{
+  "subject": "english",
+  "schoolType": "high",
+  "topics": [
+    {
+      "grade": 1,
+      "topicName": "関係副詞と複合関係詞",
+      "lessonGoal": "関係副詞（where/when/why/how）を正しく使える",
+      "introTask": "関係代名詞との違いを考える",
+      "development1Tasks": ["関係副詞の種類と用法を学ぶ", "関係代名詞と関係副詞の違いを整理する"],
+      "development2Tasks": ["複合関係詞（whoever, whatever等）を学ぶ", "関係副詞を使った英作文に取り組む"],
+      "summaryTask": "関係副詞の使い方をまとめる"
+    },
+    {
+      "grade": 1,
+      "topicName": "仮定法",
+      "lessonGoal": "仮定法過去・仮定法過去完了を使って「もし～なら」を英語で表現できる",
+      "introTask": "\"If I were a bird, I could fly.\" の意味を考える",
+      "development1Tasks": ["仮定法過去の形と意味を学ぶ", "仮定法過去完了の形と意味を学ぶ"],
+      "development2Tasks": ["I wish ～ / as if ～ の表現を学ぶ", "仮定法を使った英作文をする"],
+      "summaryTask": "仮定法の使い方をまとめる"
+    },
+    {
+      "grade": 1,
+      "topicName": "長文読解（説明文）",
+      "lessonGoal": "英語の説明文を読み、段落構成と要旨を把握できる",
+      "introTask": "パラグラフの構造（トピックセンテンス）を復習する",
+      "development1Tasks": ["各段落のトピックセンテンスを見つける", "ディスコースマーカーに注目して論理を追う"],
+      "development2Tasks": ["本文の内容に関する設問に答える", "要約を英語で書く"],
+      "summaryTask": "説明文読解のストラテジーをまとめる"
+    },
+    {
+      "grade": 2,
+      "topicName": "分詞構文",
+      "lessonGoal": "分詞構文の作り方と意味を理解し、使えるようになる",
+      "introTask": "\"Walking along the street, I met an old friend.\" の構造を分析する",
+      "development1Tasks": ["分詞構文の作り方（接続詞+主語の省略）を学ぶ", "分詞構文の意味（時・理由・条件等）を学ぶ"],
+      "development2Tasks": ["受動態・完了形の分詞構文を学ぶ", "分詞構文を含む英文を読解する"],
+      "summaryTask": "分詞構文のポイントをまとめる"
+    },
+    {
+      "grade": 2,
+      "topicName": "英語ディベート",
+      "lessonGoal": "賛成・反対の立場で根拠を示しながら英語で議論できる",
+      "introTask": "ディベートのルールと流れを確認する",
+      "development1Tasks": ["論題について情報を集めて立場を決める", "主張と根拠を英語で整理する"],
+      "development2Tasks": ["ディベートを実施する（立論→反論→最終弁論）", "相手の主張を聞いて反論を考える"],
+      "summaryTask": "ディベートで使った表現を振り返る"
+    },
+    {
+      "grade": 2,
+      "topicName": "英作文（意見論述）",
+      "lessonGoal": "自分の意見を英語で論理的に書ける",
+      "introTask": "Writing の基本構成（Introduction - Body - Conclusion）を確認する",
+      "development1Tasks": ["意見を述べる英語表現を学ぶ", "理由と具体例の書き方を練習する"],
+      "development2Tasks": ["与えられたテーマについて意見文を書く", "ピアレビューで互いの作文を添削する"],
+      "summaryTask": "英語の意見文の書き方をまとめる"
+    },
+    {
+      "grade": 3,
+      "topicName": "長文読解（論説文・大学入試レベル）",
+      "lessonGoal": "大学入試レベルの長文を正確に読み、設問に答えられる",
+      "introTask": "入試英語の出題傾向を確認する",
+      "development1Tasks": ["段落ごとの要旨把握と全体構造を分析する", "未知語の意味を文脈から推測する練習"],
+      "development2Tasks": ["設問パターン（内容一致・空所補充・要約等）の解法を学ぶ", "時間配分を意識して問題に取り組む"],
+      "summaryTask": "長文読解の解法ポイントをまとめる"
+    },
+    {
+      "grade": 3,
+      "topicName": "リスニング実践",
+      "lessonGoal": "大学入試レベルのリスニング問題に対応できる",
+      "introTask": "リスニングで聞き取りにくいポイントを確認する",
+      "development1Tasks": ["音の連結・脱落・同化のルールを学ぶ", "シャドーイングで聞き取り力を鍛える"],
+      "development2Tasks": ["対話文リスニング問題を解く", "モノローグ型リスニング問題を解く"],
+      "summaryTask": "リスニング上達のポイントをまとめる"
+    }
+  ]
+}

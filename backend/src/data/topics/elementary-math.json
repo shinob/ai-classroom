@@ -1,0 +1,168 @@
+{
+  "subject": "math",
+  "schoolType": "elementary",
+  "topics": [
+    {
+      "grade": 1,
+      "topicName": "たし算（1けた）",
+      "lessonGoal": "1けた同士のたし算の意味と計算方法を理解する",
+      "introTask": "ブロックを使って合わせる場面を確認する",
+      "development1Tasks": ["ブロック操作で「あわせていくつ」を体験する", "たし算の式の書き方を学ぶ"],
+      "development2Tasks": ["たし算カードを使った練習", "文章問題をたし算の式に表す"],
+      "summaryTask": "たし算の式を3つ書いてノートに記録する"
+    },
+    {
+      "grade": 1,
+      "topicName": "ひき算（1けた）",
+      "lessonGoal": "1けた同士のひき算の意味と計算方法を理解する",
+      "introTask": "ブロックを使って「のこりはいくつ」の場面を作る",
+      "development1Tasks": ["ブロック操作で「とるといくつ」を体験する", "ひき算の式の書き方を学ぶ"],
+      "development2Tasks": ["ひき算カードを使った練習", "文章問題をひき算の式に表す"],
+      "summaryTask": "ひき算の式を3つ書いてノートに記録する"
+    },
+    {
+      "grade": 1,
+      "topicName": "大きさくらべ",
+      "lessonGoal": "長さ・かさ・広さの比べ方を理解する",
+      "introTask": "2本の鉛筆のどちらが長いか予想する",
+      "development1Tasks": ["端をそろえて直接比べる方法を学ぶ", "同じ大きさのものを使って間接比較する"],
+      "development2Tasks": ["教室のものの長さを比べる活動", "水のかさを比べる実験"],
+      "summaryTask": "比べ方のポイントを発表する"
+    },
+    {
+      "grade": 2,
+      "topicName": "かけ算九九",
+      "lessonGoal": "かけ算の意味を理解し、九九を正しく唱えられる",
+      "introTask": "同じ数ずつのまとまりの場面を見つける",
+      "development1Tasks": ["かけ算の意味を「1つ分×いくつ分」で理解する", "2の段・5の段から九九を覚える"],
+      "development2Tasks": ["3,4,6,7,8,9の段を順に練習する", "九九カードで素早く答える練習"],
+      "summaryTask": "九九の表のきまりを見つけて発表する"
+    },
+    {
+      "grade": 2,
+      "topicName": "たし算とひき算の筆算",
+      "lessonGoal": "2けた・3けたの筆算ができる",
+      "introTask": "23+15を自分なりに計算してみる",
+      "development1Tasks": ["位をそろえて書く筆算の仕方を学ぶ", "繰り上がりのある筆算を練習する"],
+      "development2Tasks": ["繰り下がりのあるひき算の筆算を練習する", "3けたの筆算に挑戦する"],
+      "summaryTask": "筆算の手順を自分の言葉で説明する"
+    },
+    {
+      "grade": 2,
+      "topicName": "時こくと時間",
+      "lessonGoal": "時計の読み方と時間の計算ができる",
+      "introTask": "今の時刻を時計で読む",
+      "development1Tasks": ["「○時○分」の読み方を復習する", "時刻と時間の違いを理解する"],
+      "development2Tasks": ["「○時間○分後」の時刻を求める", "生活の中の時間を計算する"],
+      "summaryTask": "1日の生活を時刻で表す"
+    },
+    {
+      "grade": 3,
+      "topicName": "わり算",
+      "lessonGoal": "わり算の意味を理解し、等分除と包含除の計算ができる",
+      "introTask": "12個のあめを3人に同じ数ずつ配る場面を考える",
+      "development1Tasks": ["等分する場面からわり算の意味を学ぶ", "九九を使ってわり算の答えを求める"],
+      "development2Tasks": ["何人に分けられるか（包含除）の場面を考える", "わり算の文章問題を解く"],
+      "summaryTask": "等分除と包含除の違いをまとめる"
+    },
+    {
+      "grade": 3,
+      "topicName": "小数",
+      "lessonGoal": "小数の意味を理解し、小数の加減計算ができる",
+      "introTask": "1mより短い長さをどう表すか考える",
+      "development1Tasks": ["0.1の意味を理解する", "数直線で小数の位置を確認する"],
+      "development2Tasks": ["小数のたし算・ひき算を筆算でする", "小数を使った文章問題を解く"],
+      "summaryTask": "小数の計算のポイントをまとめる"
+    },
+    {
+      "grade": 3,
+      "topicName": "円と球",
+      "lessonGoal": "円と球の性質を理解し、コンパスを使って円が描ける",
+      "introTask": "丸いものを教室で探す",
+      "development1Tasks": ["中心・半径・直径の意味を学ぶ", "コンパスで円を描く練習をする"],
+      "development2Tasks": ["半径と直径の関係を調べる", "コンパスで模様を描く"],
+      "summaryTask": "円の性質を3つ挙げてまとめる"
+    },
+    {
+      "grade": 4,
+      "topicName": "面積",
+      "lessonGoal": "面積の概念を理解し、長方形と正方形の面積を求められる",
+      "introTask": "2つの長方形のどちらが広いか予想する",
+      "development1Tasks": ["1cm²を単位にして面積を数える", "長方形の面積＝たて×よこの公式を導く"],
+      "development2Tasks": ["正方形の面積の公式を考える", "L字型などの複合図形の面積を工夫して求める"],
+      "summaryTask": "面積の求め方のポイントをまとめる"
+    },
+    {
+      "grade": 4,
+      "topicName": "分数",
+      "lessonGoal": "真分数・仮分数・帯分数の意味を理解し、計算できる",
+      "introTask": "ピザを等分する場面で分数を復習する",
+      "development1Tasks": ["仮分数と帯分数の意味を理解する", "仮分数と帯分数の相互変換をする"],
+      "development2Tasks": ["同分母の分数のたし算・ひき算をする", "分数の文章問題を解く"],
+      "summaryTask": "分数のまとめ問題を解く"
+    },
+    {
+      "grade": 4,
+      "topicName": "角",
+      "lessonGoal": "角の大きさを分度器で測り、角の大きさの単位「度」を理解する",
+      "introTask": "2本の直線が開いている大きさを比べる",
+      "development1Tasks": ["分度器の使い方を学ぶ", "角度を測る練習をする"],
+      "development2Tasks": ["指定された角度を分度器で描く", "三角形の3つの角の和を調べる"],
+      "summaryTask": "角度の測り方と描き方を振り返る"
+    },
+    {
+      "grade": 5,
+      "topicName": "小数のかけ算・わり算",
+      "lessonGoal": "小数×小数、小数÷小数の計算方法を理解する",
+      "introTask": "1mが80円のリボン、2.3m分の代金を考える",
+      "development1Tasks": ["小数×小数の筆算の仕方を学ぶ", "小数点の位置の決め方を理解する"],
+      "development2Tasks": ["小数÷小数の筆算を練習する", "あまりのある小数のわり算を解く"],
+      "summaryTask": "小数の計算のきまりをまとめる"
+    },
+    {
+      "grade": 5,
+      "topicName": "合同な図形",
+      "lessonGoal": "合同の意味を理解し、合同な図形の描き方を学ぶ",
+      "introTask": "2つの三角形を重ねて同じ形か確かめる",
+      "development1Tasks": ["合同の意味と対応する辺・角を学ぶ", "合同な三角形の描き方（3つの方法）を学ぶ"],
+      "development2Tasks": ["合同な四角形を描く", "合同を使った問題を解く"],
+      "summaryTask": "合同な図形を描くポイントをまとめる"
+    },
+    {
+      "grade": 5,
+      "topicName": "割合",
+      "lessonGoal": "割合の意味を理解し、百分率を使って表せる",
+      "introTask": "シュートの成功率を比べる場面を考える",
+      "development1Tasks": ["割合＝比べられる量÷もとにする量を学ぶ", "百分率（%）での表し方を学ぶ"],
+      "development2Tasks": ["割合を使った問題を解く", "日常の割合の場面を見つける"],
+      "summaryTask": "割合の求め方を自分の言葉で説明する"
+    },
+    {
+      "grade": 6,
+      "topicName": "比",
+      "lessonGoal": "比の意味を理解し、等しい比や比の値を求められる",
+      "introTask": "ドレッシングの酢と油の割合を考える",
+      "development1Tasks": ["比の表し方と比の値を学ぶ", "等しい比の性質を理解する"],
+      "development2Tasks": ["比を簡単にする練習", "比を使った文章問題を解く"],
+      "summaryTask": "比のまとめ問題を解く"
+    },
+    {
+      "grade": 6,
+      "topicName": "円の面積",
+      "lessonGoal": "円の面積の求め方を理解し、公式を使って計算できる",
+      "introTask": "円の面積はおよそ何cm²か予想する",
+      "development1Tasks": ["方眼紙で円の面積を概算する", "円の面積＝半径×半径×π の公式を導く"],
+      "development2Tasks": ["円の面積を公式で求める練習", "おうぎ形や半円の面積を求める"],
+      "summaryTask": "円の面積の求め方をまとめる"
+    },
+    {
+      "grade": 6,
+      "topicName": "場合の数",
+      "lessonGoal": "順列・組み合わせの考え方を理解し、落ちなく重なりなく数えられる",
+      "introTask": "3人でリレーの走る順番を考える",
+      "development1Tasks": ["並び方（順列）を樹形図で整理する", "選び方（組み合わせ）を表で整理する"],
+      "development2Tasks": ["場合の数の問題を解く", "整理の仕方を工夫する"],
+      "summaryTask": "場合の数を求めるコツをまとめる"
+    }
+  ]
+}

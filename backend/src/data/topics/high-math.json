@@ -1,0 +1,78 @@
+{
+  "subject": "math",
+  "schoolType": "high",
+  "topics": [
+    {
+      "grade": 1,
+      "topicName": "二次関数",
+      "lessonGoal": "二次関数のグラフの特徴を理解し、最大値・最小値を求められる",
+      "introTask": "y=x²のグラフを確認する",
+      "development1Tasks": ["y=a(x-p)²+q のグラフの頂点と軸を理解する", "平方完成の方法を練習する"],
+      "development2Tasks": ["定義域のある二次関数の最大値・最小値を求める", "二次関数と二次方程式・二次不等式の関係を学ぶ"],
+      "summaryTask": "二次関数の要点をまとめる"
+    },
+    {
+      "grade": 1,
+      "topicName": "三角比",
+      "lessonGoal": "sin, cos, tan の定義を理解し、三角比を使って辺の長さや角度を求められる",
+      "introTask": "直角三角形の辺の比（三平方の定理）を復習する",
+      "development1Tasks": ["sin, cos, tan の定義を学ぶ", "三角比の表を使って値を求める"],
+      "development2Tasks": ["正弦定理・余弦定理を学ぶ", "三角比を使った計測問題を解く"],
+      "summaryTask": "三角比の公式と活用場面をまとめる"
+    },
+    {
+      "grade": 1,
+      "topicName": "集合と命題",
+      "lessonGoal": "集合の概念と命題の真偽、必要条件・十分条件を理解する",
+      "introTask": "ベン図で集合を表す",
+      "development1Tasks": ["集合の表し方と演算（和集合・共通部分・補集合）を学ぶ", "命題と条件の真偽を判定する"],
+      "development2Tasks": ["必要条件・十分条件を理解する", "対偶を使った証明法を学ぶ"],
+      "summaryTask": "集合と命題の要点をまとめる"
+    },
+    {
+      "grade": 2,
+      "topicName": "微分",
+      "lessonGoal": "微分の概念を理解し、導関数を求めて関数の増減を調べられる",
+      "introTask": "曲線の接線の傾きを考える",
+      "development1Tasks": ["極限と微分係数の概念を学ぶ", "導関数の公式を使って微分する"],
+      "development2Tasks": ["関数の増減と極値を調べる", "接線の方程式を求める"],
+      "summaryTask": "微分の計算と活用法をまとめる"
+    },
+    {
+      "grade": 2,
+      "topicName": "積分",
+      "lessonGoal": "積分が微分の逆演算であることを理解し、面積を求められる",
+      "introTask": "曲線と x 軸の間の面積をどう求めるか考える",
+      "development1Tasks": ["不定積分の計算を練習する", "定積分の計算と面積への応用を学ぶ"],
+      "development2Tasks": ["放物線と直線で囲まれた面積を求める", "積分を使った応用問題を解く"],
+      "summaryTask": "積分の計算と面積の求め方をまとめる"
+    },
+    {
+      "grade": 2,
+      "topicName": "ベクトル",
+      "lessonGoal": "ベクトルの演算を理解し、平面・空間の図形問題に応用できる",
+      "introTask": "「向きと大きさを持つ量」の具体例を挙げる",
+      "development1Tasks": ["ベクトルの加法・減法・実数倍を学ぶ", "成分表示と内積を学ぶ"],
+      "development2Tasks": ["位置ベクトルを使って図形の性質を証明する", "空間ベクトルの基本を学ぶ"],
+      "summaryTask": "ベクトルの計算と活用法をまとめる"
+    },
+    {
+      "grade": 3,
+      "topicName": "数列",
+      "lessonGoal": "等差数列・等比数列の一般項と和を求められる",
+      "introTask": "1, 3, 5, 7, ... の規則性を考える",
+      "development1Tasks": ["等差数列の一般項と和の公式を学ぶ", "等比数列の一般項と和の公式を学ぶ"],
+      "development2Tasks": ["Σ記号を使った和の計算をする", "漸化式から一般項を求める"],
+      "summaryTask": "数列の公式と活用法をまとめる"
+    },
+    {
+      "grade": 3,
+      "topicName": "確率分布と統計的推測",
+      "lessonGoal": "確率変数と確率分布を理解し、統計的推測の考え方を学ぶ",
+      "introTask": "サイコロを振った時の出目の期待値を考える",
+      "development1Tasks": ["確率変数の期待値と分散を求める", "二項分布と正規分布を学ぶ"],
+      "development2Tasks": ["標本調査と母集団の推定を学ぶ", "信頼区間を求める練習をする"],
+      "summaryTask": "統計的推測の基本的な考え方をまとめる"
+    }
+  ]
+}
